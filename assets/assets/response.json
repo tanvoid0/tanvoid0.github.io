@@ -1,0 +1,619 @@
+{
+  "skills": {
+    "_updatedAt": "2025-01-14T23:16:50Z",
+    "_rev": "m78cuKkiKi4b68q91wINGZ",
+    "soft": [
+      {
+        "image": "https://cdn.sanity.io/images/m5qcuhai/production/db052bb2945df81b7e5b584e7c4a14e2e21f1a70-36x22.gif",
+        "_rev": "m78cuKkiKi4b68q91wJ3p1",
+        "_type": "skillItem",
+        "_id": "bf7b5bac-fade-4a5d-97a3-fcb2707e2330",
+        "title": "English",
+        "_updatedAt": "2025-01-14T23:29:03Z",
+        "orderRank": "0|100008:",
+        "_createdAt": "2025-01-14T01:20:18Z",
+        "id": "bf7b5bac-fade-4a5d-97a3-fcb2707e2330"
+      },
+      {
+        "_rev": "s87jR3FWNyY2fnwGzzkXhm",
+        "_type": "skillItem",
+        "_id": "ff6e3e9b-07f4-4177-ab1c-8a38f39cdde7",
+        "_updatedAt": "2025-01-14T23:28:59Z",
+        "orderRank": "0|100008:",
+        "image": "https://cdn.sanity.io/images/m5qcuhai/production/db052bb2945df81b7e5b584e7c4a14e2e21f1a70-36x22.gif",
+        "title": "Patient",
+        "_createdAt": "2025-01-14T01:21:37Z",
+        "id": "ff6e3e9b-07f4-4177-ab1c-8a38f39cdde7"
+      }
+    ],
+    "_createdAt": "2025-01-14T23:14:36Z",
+    "_type": "skill",
+    "_id": "a41724a2-be60-4875-89c7-8d83e53b48d0",
+    "hard": [
+      {
+        "title": "DevOps",
+        "items": [
+          {
+            "image": "https://cdn.sanity.io/images/m5qcuhai/production/db052bb2945df81b7e5b584e7c4a14e2e21f1a70-36x22.gif",
+            "icon": {
+              "package": "font_awesome",
+              "value": "test"
+            },
+            "_updatedAt": "2025-01-14T01:19:49Z",
+            "_createdAt": "2025-01-14T01:19:27Z",
+            "_type": "skillItem",
+            "orderRank": "0|100008:",
+            "title": "Java",
+            "_rev": "THoZkakz6U72Ms8SFujEDM",
+            "id": "a9910287-8212-4352-a802-502fa0a755fc",
+            "_id": "a9910287-8212-4352-a802-502fa0a755fc"
+          },
+          {
+            "_type": "skillItem",
+            "title": "English",
+            "_updatedAt": "2025-01-14T23:29:03Z",
+            "orderRank": "0|100008:",
+            "_rev": "m78cuKkiKi4b68q91wJ3p1",
+            "_id": "bf7b5bac-fade-4a5d-97a3-fcb2707e2330",
+            "image": "https://cdn.sanity.io/images/m5qcuhai/production/db052bb2945df81b7e5b584e7c4a14e2e21f1a70-36x22.gif",
+            "_createdAt": "2025-01-14T01:20:18Z",
+            "id": "bf7b5bac-fade-4a5d-97a3-fcb2707e2330"
+          }
+        ]
+      },
+      {
+        "title": "Git",
+        "items": [
+          {
+            "image": "https://cdn.sanity.io/images/m5qcuhai/production/db052bb2945df81b7e5b584e7c4a14e2e21f1a70-36x22.gif",
+            "icon": {
+              "package": "dev_icons",
+              "value": "test"
+            },
+            "title": "Git",
+            "_createdAt": "2025-01-14T23:15:58Z",
+            "orderRank": "0|100008:",
+            "id": "5fbd559a-b0d7-4a2d-b274-f2a999af585e",
+            "_rev": "XkLL5Pe5YWVWWB2vEHFM6r",
+            "_type": "skillItem",
+            "fluency": "2",
+            "_id": "5fbd559a-b0d7-4a2d-b274-f2a999af585e",
+            "_updatedAt": "2025-01-14T23:16:16Z"
+          },
+          {
+            "_rev": "THoZkakz6U72Ms8SFujEDM",
+            "_type": "skillItem",
+            "icon": {
+              "package": "font_awesome",
+              "value": "test"
+            },
+            "_updatedAt": "2025-01-14T01:19:49Z",
+            "_id": "a9910287-8212-4352-a802-502fa0a755fc",
+            "title": "Java",
+            "_createdAt": "2025-01-14T01:19:27Z",
+            "orderRank": "0|100008:",
+            "image": "https://cdn.sanity.io/images/m5qcuhai/production/db052bb2945df81b7e5b584e7c4a14e2e21f1a70-36x22.gif",
+            "id": "a9910287-8212-4352-a802-502fa0a755fc"
+          }
+        ]
+      }
+    ],
+    "linguistics": [
+      {
+        "_id": "5ace1707-c144-4353-8a09-b71af169b8cc",
+        "id": "5ace1707-c144-4353-8a09-b71af169b8cc",
+        "_updatedAt": "2025-01-14T01:20:09Z",
+        "image": "https://cdn.sanity.io/images/m5qcuhai/production/db052bb2945df81b7e5b584e7c4a14e2e21f1a70-36x22.gif",
+        "_createdAt": "2025-01-14T01:20:01Z",
+        "_type": "skillItem",
+        "orderRank": "0|100008:",
+        "_rev": "hvyYGL2HxeSTDF4Qo4N3Wv",
+        "title": "Flutter"
+      },
+      {
+        "_type": "skillItem",
+        "title": "Java",
+        "id": "a9910287-8212-4352-a802-502fa0a755fc",
+        "image": "https://cdn.sanity.io/images/m5qcuhai/production/db052bb2945df81b7e5b584e7c4a14e2e21f1a70-36x22.gif",
+        "_id": "a9910287-8212-4352-a802-502fa0a755fc",
+        "_rev": "THoZkakz6U72Ms8SFujEDM",
+        "_updatedAt": "2025-01-14T01:19:49Z",
+        "orderRank": "0|100008:",
+        "_createdAt": "2025-01-14T01:19:27Z",
+        "icon": {
+          "value": "test",
+          "package": "font_awesome"
+        }
+      }
+    ],
+    "languages": [
+      {
+        "image": "https://cdn.sanity.io/images/m5qcuhai/production/5d7ad62712b0f682367781718cb74f1e456df802-751x983.png",
+        "_rev": "m78cuKkiKi4b68q91wIGL9",
+        "_id": "396a92dd-c651-46d8-a58a-c3dc6d86f93b",
+        "_createdAt": "2025-01-14T23:14:43Z",
+        "id": "396a92dd-c651-46d8-a58a-c3dc6d86f93b",
+        "_updatedAt": "2025-01-14T23:14:53Z",
+        "title": "Blanditiis aut corru",
+        "orderRank": "0|100008:",
+        "_type": "skillItem",
+        "icon": {
+          "package": "cupertino_icons",
+          "value": "Omnis eum exercitati"
+        },
+        "fluency": "Aut odio aute volupt"
+      },
+      {
+        "image": "https://cdn.sanity.io/images/m5qcuhai/production/db052bb2945df81b7e5b584e7c4a14e2e21f1a70-36x22.gif",
+        "_rev": "hvyYGL2HxeSTDF4Qo4N3Wv",
+        "_type": "skillItem",
+        "_updatedAt": "2025-01-14T01:20:09Z",
+        "id": "5ace1707-c144-4353-8a09-b71af169b8cc",
+        "orderRank": "0|100008:",
+        "_createdAt": "2025-01-14T01:20:01Z",
+        "_id": "5ace1707-c144-4353-8a09-b71af169b8cc",
+        "title": "Flutter"
+      },
+      {
+        "_createdAt": "2025-01-14T01:19:27Z",
+        "_id": "a9910287-8212-4352-a802-502fa0a755fc",
+        "title": "Java",
+        "orderRank": "0|100008:",
+        "_type": "skillItem",
+        "icon": {
+          "package": "font_awesome",
+          "value": "test"
+        },
+        "_updatedAt": "2025-01-14T01:19:49Z",
+        "_rev": "THoZkakz6U72Ms8SFujEDM",
+        "image": "https://cdn.sanity.io/images/m5qcuhai/production/db052bb2945df81b7e5b584e7c4a14e2e21f1a70-36x22.gif",
+        "id": "a9910287-8212-4352-a802-502fa0a755fc"
+      }
+    ],
+    "frameworks": [
+      {
+        "_id": "bf7b5bac-fade-4a5d-97a3-fcb2707e2330",
+        "title": "English",
+        "_updatedAt": "2025-01-14T23:29:03Z",
+        "orderRank": "0|100008:",
+        "_createdAt": "2025-01-14T01:20:18Z",
+        "id": "bf7b5bac-fade-4a5d-97a3-fcb2707e2330",
+        "_rev": "m78cuKkiKi4b68q91wJ3p1",
+        "_type": "skillItem",
+        "image": "https://cdn.sanity.io/images/m5qcuhai/production/db052bb2945df81b7e5b584e7c4a14e2e21f1a70-36x22.gif"
+      },
+      {
+        "_rev": "THoZkakz6U72Ms8SFujG7E",
+        "_id": "33743018-8346-4f30-85d4-48ad24997ea0",
+        "image": null,
+        "title": "Google Cloud",
+        "_updatedAt": "2025-01-14T01:21:09Z",
+        "_createdAt": "2025-01-14T01:21:02Z",
+        "orderRank": "0|100008:",
+        "_type": "skillItem",
+        "id": "33743018-8346-4f30-85d4-48ad24997ea0"
+      }
+    ]
+  },
+  "_id": "98b85b5f-b896-4613-8ee0-7e8af860d6ab",
+  "image": "https://cdn.sanity.io/images/m5qcuhai/production/de14fd577cee41706e2b0215defd6b6c4a7e972e-751x983.png",
+  "careers": {
+    "academics": [
+      {
+        "institution": "Minus possimus volu",
+        "title": "Maxime in omnis est",
+        "_type": "academic",
+        "_updatedAt": "2025-01-14T23:01:10Z",
+        "activities": "Ipsam cupiditate id ",
+        "_createdAt": "2025-01-14T23:01:05Z",
+        "timeline": "In et consequatur u",
+        "address": "Autem officia maiore",
+        "graduation": "Pariatur Voluptas e",
+        "_id": "3f3b7ff7-87f8-41f8-bbe3-f7e47fc543b0",
+        "orderRank": "0|100008:",
+        "id": "3f3b7ff7-87f8-41f8-bbe3-f7e47fc543b0",
+        "description": "Doloribus illum et ",
+        "logo": "https://cdn.sanity.io/images/m5qcuhai/production/0c609c8ca446aa094e2c961792040b7277116228-751x983.png",
+        "_rev": "m78cuKkiKi4b68q91wECCd"
+      },
+      {
+        "title": "Dolorem repellendus",
+        "graduation": "Ut harum minima quia",
+        "logo": "https://cdn.sanity.io/images/m5qcuhai/production/5d7ad62712b0f682367781718cb74f1e456df802-751x983.png",
+        "description": "Excepteur tempore t",
+        "_updatedAt": "2025-01-14T23:01:26Z",
+        "timeline": "Officia consequatur ",
+        "orderRank": "0|100008:",
+        "institution": "Ex sunt nostrum ea d",
+        "_createdAt": "2025-01-14T23:01:20Z",
+        "address": "Necessitatibus occae",
+        "activities": "Repudiandae veritati",
+        "_id": "4dcc30a4-390d-4be1-b971-b638b667294c",
+        "_type": "academic",
+        "id": "4dcc30a4-390d-4be1-b971-b638b667294c",
+        "_rev": "XkLL5Pe5YWVWWB2vEHC2BX"
+      }
+    ],
+    "achievements": [
+      {
+        "achievement": "Minus do tempor blan",
+        "_createdAt": "2025-01-14T23:01:32Z",
+        "timeline": "Autem nobis id quae ",
+        "description": "In aperiam recusanda",
+        "institution": "Itaque nostrum volup",
+        "orderRank": "0|100008:",
+        "_type": "achievement",
+        "_updatedAt": "2025-01-14T23:01:40Z",
+        "address": "Iure molestiae id i",
+        "activities": "Aut est maxime dolor",
+        "logo": "https://cdn.sanity.io/images/m5qcuhai/production/7e90d27963d2eb9817722fca32c1807061d64906-751x983.png",
+        "_id": "9d518e29-58ec-4e58-ac7b-2eac9248c10c",
+        "title": "Consequatur qui cum ",
+        "id": "9d518e29-58ec-4e58-ac7b-2eac9248c10c",
+        "_rev": "s87jR3FWNyY2fnwGzzhejB"
+      },
+      {
+        "timeline": "Est voluptatem Et v",
+        "_updatedAt": "2025-01-14T23:01:58Z",
+        "_rev": "s87jR3FWNyY2fnwGzzhi8a",
+        "id": "1156dcc4-38eb-44f9-9914-cf656a711a26",
+        "activities": "Magnam voluptatum in",
+        "description": "Rem dolorum sunt sae",
+        "_id": "1156dcc4-38eb-44f9-9914-cf656a711a26",
+        "_type": "achievement",
+        "achievement": "Non quo aut laborios",
+        "_createdAt": "2025-01-14T23:01:44Z",
+        "title": "Error expedita quia ",
+        "address": "Minima minima dolor ",
+        "logo": "https://cdn.sanity.io/images/m5qcuhai/production/1733a7982367b3cce3473092a5ca1a1f15abad9c-751x983.png",
+        "orderRank": "0|100008:",
+        "institution": "Voluptatem Omnis in"
+      }
+    ],
+    "certificates": [
+      {
+        "_type": "certificate",
+        "_updatedAt": "2025-01-14T23:04:27Z",
+        "activities": "Alias minus temporib",
+        "graduation": "Id nihil adipisci fu",
+        "url": "https://www.bufaryqejo.info",
+        "institution": "Et fugit enim quo d",
+        "description": "Eos et deleniti non ",
+        "_createdAt": "2025-01-14T23:02:04Z",
+        "timeline": "Sed mollitia aut con",
+        "id": "b10c3d41-669c-4ea4-a0f7-7a83b50fac50",
+        "logo": "https://cdn.sanity.io/images/m5qcuhai/production/816309a794510c81a9f2b66ac0a06321ec6411a8-535x757.png",
+        "orderRank": "0|100008:",
+        "address": "Dolore ea ea commodi",
+        "title": "Anim aut quia ut dol",
+        "_id": "b10c3d41-669c-4ea4-a0f7-7a83b50fac50",
+        "_rev": "s87jR3FWNyY2fnwGzzi9sp"
+      },
+      {
+        "title": "Et non sunt et liber",
+        "orderRank": "0|100008:",
+        "address": "Voluptas pariatur A",
+        "activities": "Esse aliquip magna ",
+        "institution": "Alias ut provident ",
+        "logo": "https://cdn.sanity.io/images/m5qcuhai/production/bd1cda550e2620e137d95c12840aafcb8e98188b-751x983.png",
+        "timeline": "Debitis sit provide",
+        "_updatedAt": "2025-01-14T23:04:24Z",
+        "id": "163a152a-ae81-4e4d-9a95-a906b7e7da2b",
+        "_id": "163a152a-ae81-4e4d-9a95-a906b7e7da2b",
+        "description": "Libero minima sapien",
+        "graduation": "Nulla et numquam a i",
+        "_type": "certificate",
+        "_createdAt": "2025-01-14T23:03:07Z",
+        "_rev": "m78cuKkiKi4b68q91wFg6h",
+        "url": "https://www.heki.org.au"
+      }
+    ],
+    "experiences": [
+      {
+        "_rev": "XkLL5Pe5YWVWWB2vEHCXaF",
+        "_type": "experience",
+        "_id": "48939616-ac52-425f-8a39-8aae2c97e562",
+        "title": "Consectetur est cul",
+        "activities": "Amet aliquam labori",
+        "_createdAt": "2025-01-14T23:03:20Z",
+        "logo": "https://cdn.sanity.io/images/m5qcuhai/production/7e90d27963d2eb9817722fca32c1807061d64906-751x983.png",
+        "orderRank": "0|100008:",
+        "timeline": "Cumque quia odit ver",
+        "id": "48939616-ac52-425f-8a39-8aae2c97e562",
+        "address": "Dolore consequatur ",
+        "role": "Molestias sunt veri",
+        "_updatedAt": "2025-01-14T23:03:26Z",
+        "description": "Recusandae Aliquip ",
+        "institution": "Voluptas officia rat"
+      },
+      {
+        "_type": "experience",
+        "id": "352df34b-0bdc-44f1-836e-78eeae3f15d3",
+        "description": "Obcaecati consequatu",
+        "_createdAt": "2025-01-14T23:03:37Z",
+        "_id": "352df34b-0bdc-44f1-836e-78eeae3f15d3",
+        "role": "Qui quis totam susci",
+        "institution": "Rerum nostrum ea dol",
+        "activities": "Pariatur Molestias ",
+        "title": "Eu qui temporibus ei",
+        "_updatedAt": "2025-01-14T23:03:43Z",
+        "_rev": "XkLL5Pe5YWVWWB2vEHCaIX",
+        "timeline": "Nostrum quia aliquam",
+        "address": "Ducimus voluptatibu",
+        "orderRank": "0|100008:",
+        "logo": "https://cdn.sanity.io/images/m5qcuhai/production/be85efb73f03ffa3af771735bce358a577ed142c-751x983.png"
+      }
+    ],
+    "voluntaries": [
+      {
+        "timeline": "Eligendi molestiae c",
+        "address": "Iusto corporis simil",
+        "activities": "Modi commodo duis mo",
+        "title": "Rem eu labore qui au",
+        "description": "Et numquam sed iure ",
+        "orderRank": "0|100008:",
+        "id": "70c359ce-0278-4385-ac06-29f656aa133b",
+        "role": "Optio adipisicing v",
+        "_createdAt": "2025-01-14T23:03:49Z",
+        "institution": "Odio cillum officia ",
+        "_rev": "m78cuKkiKi4b68q91wFeJD",
+        "_id": "70c359ce-0278-4385-ac06-29f656aa133b",
+        "_type": "voluntary",
+        "_updatedAt": "2025-01-14T23:04:17Z",
+        "logo": "https://cdn.sanity.io/images/m5qcuhai/production/be85efb73f03ffa3af771735bce358a577ed142c-751x983.png"
+      },
+      {
+        "_updatedAt": "2025-01-14T23:04:08Z",
+        "address": "Eveniet sit volupta",
+        "role": "Molestiae duis incid",
+        "timeline": "Fuga Impedit quo q",
+        "id": "397826a7-f62f-4088-a476-e7760ac2868c",
+        "_type": "voluntary",
+        "title": "Vero explicabo Aliq",
+        "_id": "397826a7-f62f-4088-a476-e7760ac2868c",
+        "institution": "Ad harum sed sequi s",
+        "activities": "Aperiam at quisquam ",
+        "_createdAt": "2025-01-14T23:04:03Z",
+        "description": "Qui elit dolore nih",
+        "orderRank": "0|100008:",
+        "_rev": "XkLL5Pe5YWVWWB2vEHDOcj",
+        "logo": "https://cdn.sanity.io/images/m5qcuhai/production/816309a794510c81a9f2b66ac0a06321ec6411a8-535x757.png"
+      }
+    ]
+  },
+  "portfolios": {
+    "onlineProfiles": [
+      {
+        "_updatedAt": "2025-01-14T23:04:50Z",
+        "_type": "onlineProfile",
+        "url": "https://www.calajipicyrifid.org",
+        "image": "https://cdn.sanity.io/images/m5qcuhai/production/be85efb73f03ffa3af771735bce358a577ed142c-751x983.png",
+        "_createdAt": "2025-01-14T23:04:44Z",
+        "_rev": "m78cuKkiKi4b68q91wFjpv",
+        "progress": "Id in quia voluptate",
+        "icon": {
+          "package": "cupertino_icons",
+          "value": "Omnis pariatur Labo"
+        },
+        "orderRank": "0|100008:",
+        "_id": "6794d43f-41bb-480a-9b07-7a3b1382003e",
+        "title": "Quo obcaecati sapien",
+        "id": "6794d43f-41bb-480a-9b07-7a3b1382003e"
+      },
+      {
+        "progress": "Nostrum aut et conse",
+        "_id": "16b0b83c-fe1f-43de-b403-ac214960dc77",
+        "orderRank": "0|100008:",
+        "_rev": "XkLL5Pe5YWVWWB2vEHDci1",
+        "icon": {
+          "package": "cupertino_icons",
+          "value": "In rerum est sunt do"
+        },
+        "title": "Quam est ullamco et ",
+        "_createdAt": "2025-01-14T23:04:56Z",
+        "_type": "onlineProfile",
+        "id": "16b0b83c-fe1f-43de-b403-ac214960dc77",
+        "_updatedAt": "2025-01-14T23:05:06Z",
+        "url": "https://www.mafuvinakep.org",
+        "image": "https://cdn.sanity.io/images/m5qcuhai/production/074ea158a6579b8a856655be6a1658108d4743db-751x983.png"
+      }
+    ],
+    "projects": [
+      {
+        "_rev": "s87jR3FWNyY2fnwGzziiRs",
+        "_type": "project",
+        "platform": {
+          "_ref": "39d80d6f-c094-403b-b2da-26f51f4656ac",
+          "_type": "reference"
+        },
+        "tags": [
+          "Harum nostrum fuga ",
+          "Quia sint et nihil n"
+        ],
+        "description": "Ab ad dolores volupt",
+        "orderRank": "0|100008:",
+        "source": "https://www.modi.tv",
+        "_createdAt": "2025-01-14T23:05:13Z",
+        "status": {
+          "_ref": "dd5978ba-bba1-44e2-b75c-999df14242a3",
+          "_type": "reference"
+        },
+        "images": [
+          "https://cdn.sanity.io/images/m5qcuhai/production/074ea158a6579b8a856655be6a1658108d4743db-751x983.png",
+          "https://cdn.sanity.io/images/m5qcuhai/production/fdb8886e6e9811e1780b74045a031e8039a3bb97-751x983.png"
+        ],
+        "title": "Sint est aute nesciu",
+        "timeline": "Porro voluptas fugia",
+        "_id": "6d7e76e9-189d-41b4-8376-238e744c9e03",
+        "demo": "https://www.qyq.tv",
+        "id": "6d7e76e9-189d-41b4-8376-238e744c9e03",
+        "coverImage": "https://cdn.sanity.io/images/m5qcuhai/production/0c609c8ca446aa094e2c961792040b7277116228-751x983.png",
+        "_updatedAt": "2025-01-14T23:08:17Z"
+      },
+      {
+        "platform": {
+          "_ref": "39d80d6f-c094-403b-b2da-26f51f4656ac",
+          "_type": "reference"
+        },
+        "coverImage": "https://cdn.sanity.io/images/m5qcuhai/production/be85efb73f03ffa3af771735bce358a577ed142c-751x983.png",
+        "images": [
+          "https://cdn.sanity.io/images/m5qcuhai/production/5d7ad62712b0f682367781718cb74f1e456df802-751x983.png",
+          "https://cdn.sanity.io/images/m5qcuhai/production/5b6bc10db62c0bdbd8320da3c01a31d294388570-751x983.png"
+        ],
+        "demo": "https://www.zepiwap.net",
+        "description": "Natus dolor aut laud",
+        "timeline": "Odit et aut aut obca",
+        "_rev": "XkLL5Pe5YWVWWB2vEHF6PV",
+        "source": "https://www.rohogupavateq.org.uk",
+        "title": "Adipisicing beatae r",
+        "_createdAt": "2025-01-14T23:08:27Z",
+        "tags": [
+          "test1",
+          "test2"
+        ],
+        "technologies": [
+          {
+            "_ref": "5ace1707-c144-4353-8a09-b71af169b8cc",
+            "_type": "reference",
+            "_key": "c144fd7b2965"
+          },
+          {
+            "_ref": "a9910287-8212-4352-a802-502fa0a755fc",
+            "_type": "reference",
+            "_key": "d020e728baf4"
+          }
+        ],
+        "orderRank": "0|100008:",
+        "status": {
+          "_ref": "869e5e27-749e-4df8-a595-41a271ed0d31",
+          "_type": "reference"
+        },
+        "id": "be2850b0-da8e-4e6f-961f-359c1959c102",
+        "_updatedAt": "2025-01-14T23:14:12Z",
+        "_type": "project",
+        "_id": "be2850b0-da8e-4e6f-961f-359c1959c102"
+      }
+    ]
+  },
+  "yob": 160044235016497,
+  "whatIDo": "Dicta dolore vero at",
+  "socials": [
+    {
+      "orderRank": "0|100008:",
+      "image": "https://cdn.sanity.io/images/m5qcuhai/production/5d7ad62712b0f682367781718cb74f1e456df802-751x983.png",
+      "_createdAt": "2025-01-14T23:00:08Z",
+      "_rev": "XkLL5Pe5YWVWWB2vEHBl1D",
+      "_id": "4df621d1-35ec-4b5e-ab26-6674dd80abfc",
+      "icon": {
+        "package": "font_awesome",
+        "value": "Non do culpa ea cons"
+      },
+      "_updatedAt": "2025-01-14T23:00:17Z",
+      "title": "Et et ut laboris eu ",
+      "id": "4df621d1-35ec-4b5e-ab26-6674dd80abfc",
+      "_type": "social",
+      "url": "https://www.pir.cm"
+    },
+    {
+      "icon": {
+        "package": "font_awesome",
+        "value": "Ut doloremque doloru"
+      },
+      "_id": "b769443b-c29d-4039-8c6f-e0983554ddf1",
+      "title": "Illo commodo sapient",
+      "_createdAt": "2025-01-14T23:00:28Z",
+      "_rev": "m78cuKkiKi4b68q91wE7jz",
+      "_updatedAt": "2025-01-14T23:00:52Z",
+      "image": "https://cdn.sanity.io/images/m5qcuhai/production/074ea158a6579b8a856655be6a1658108d4743db-751x983.png",
+      "_type": "social",
+      "orderRank": "0|100008:",
+      "id": "b769443b-c29d-4039-8c6f-e0983554ddf1",
+      "url": "https://www.pogymepykocanig.me"
+    },
+    {
+      "_updatedAt": "2025-01-14T23:00:48Z",
+      "_type": "social",
+      "orderRank": "0|100008:",
+      "title": "Assumenda velit aliq",
+      "_rev": "s87jR3FWNyY2fnwGzzhPkf",
+      "icon": {
+        "package": "font_awesome",
+        "value": "Ullam in ea voluptat"
+      },
+      "_id": "71d76eae-504f-4657-a410-fc1844927d15",
+      "url": "https://www.gabedupodi.mobi",
+      "image": "https://cdn.sanity.io/images/m5qcuhai/production/5b6bc10db62c0bdbd8320da3c01a31d294388570-751x983.png",
+      "_createdAt": "2025-01-14T23:00:42Z",
+      "id": "71d76eae-504f-4657-a410-fc1844927d15"
+    }
+  ],
+  "aboutDetails": "Possimus cumque con",
+  "username": "tanvoid0",
+  "titles": [
+    "Facere sapiente sed ",
+    "Est tempora in dolor"
+  ],
+  "email": "vacefykav@mailinator.com",
+  "title": "Nisi pariatur Magna",
+  "_updatedAt": "2025-01-15T19:58:39Z",
+  "hobbies": [
+    {
+      "id": "5dbd3532-a5b9-4a32-b34b-71354b1fd152",
+      "image": "https://cdn.sanity.io/images/m5qcuhai/production/074ea158a6579b8a856655be6a1658108d4743db-751x983.png",
+      "_id": "5dbd3532-a5b9-4a32-b34b-71354b1fd152",
+      "_updatedAt": "2025-01-14T22:59:19Z",
+      "orderRank": "0|100008:",
+      "icon": {
+        "package": "font_awesome",
+        "value": "Cupidatat quis quia "
+      },
+      "_rev": "s87jR3FWNyY2fnwGzzh6Z0",
+      "title": "Elit facere natus q",
+      "_createdAt": "2025-01-14T22:58:26Z",
+      "_type": "hobby"
+    },
+    {
+      "title": "Aut corporis dolores",
+      "_rev": "m78cuKkiKi4b68q91wDddf",
+      "icon": {
+        "package": "font_awesome",
+        "value": "Dolor dolorem velit "
+      },
+      "orderRank": "0|100008:",
+      "id": "a8e5e251-2a67-47c3-8196-f0057a4032c1",
+      "image": "https://cdn.sanity.io/images/m5qcuhai/production/dc3ab772e57c6804501320e89c6072551f5c49ae-751x983.png",
+      "_type": "hobby",
+      "_createdAt": "2025-01-14T22:58:43Z",
+      "_id": "a8e5e251-2a67-47c3-8196-f0057a4032c1",
+      "_updatedAt": "2025-01-14T22:59:07Z"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/m5qcuhai/production/074ea158a6579b8a856655be6a1658108d4743db-751x983.png",
+      "id": "bc5085d4-b167-49dc-8b0d-981875622628",
+      "_type": "hobby",
+      "_id": "bc5085d4-b167-49dc-8b0d-981875622628",
+      "_rev": "m78cuKkiKi4b68q91wDiMp",
+      "_createdAt": "2025-01-14T22:59:34Z",
+      "icon": {
+        "package": "dev_icons",
+        "value": "Deserunt delectus e"
+      },
+      "title": "In aliquam dolore au",
+      "_updatedAt": "2025-01-14T22:59:44Z",
+      "orderRank": "0|100008:"
+    }
+  ],
+  "_createdAt": "2025-01-14T22:54:33Z",
+  "address": "Id inventore laborum",
+  "avatar": "https://cdn.sanity.io/images/m5qcuhai/production/0cf66dee4c30d3aa8cdce71bd89c7255c19e3b30-751x983.png",
+  "degree": "Non in officia simil",
+  "phone": "+1 (238) 881-8259",
+  "name": "Nora Moon",
+  "id": "98b85b5f-b896-4613-8ee0-7e8af860d6ab",
+  "cv": "https://cdn.sanity.io/files/m5qcuhai/production/683584858ec716a522fa7b6b5a45255c97fa5d03.png",
+  "fullName": "Faith Russo",
+  "_rev": "AJVJVObFUPWewZSbi2nm44",
+  "url": "https://www.pupysuxelefep.me",
+  "about": "Ab consequatur qui ",
+  "_type": "portfolioUser"
+}

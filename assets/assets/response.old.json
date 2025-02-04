@@ -1,0 +1,1089 @@
+{
+  "id": 1,
+  "updatedAt": "2024-01-09T18:34:09.167305",
+  "createdAt": "2024-01-09T18:34:09.167305",
+  "version": 0,
+  "about": "A Backend and Cross Platform Application Developer.\n\nI enjoy working on projects. My goal is to always build products that provide modern solution to age old problems.\n\nI love travelling and trying new things.",
+  "aboutDetails": "Backend developer with more than 2 years of experience, seeking a new opportunity to accelerate career. Proven ability to design, develop, and deliver high-performance web applications using a variety of programming languages and technologies, including Java, Spring Boot, JavaScript, Nodejs and RESTful APIs. Strong understanding of database systems, microservices architecture, and security best practices. Passionate about learning and growing, and eager to contribute to a team building innovative solutions. Actively looking for a Job.\n\nCurrently on T2 Skilled worker visa. Looking for a company with the ability to provide immediate cos letter and has license to sponsor.",
+  "address": "Cardiff, UK",
+  "avatar2": "https://i.imgur.com/XdoTTFo.png",
+  "avatar": "https://gravatar.com/avatar/bed3b292bb336809fe6d93c5db9995cd?s=400&d=robohash&r=x",
+  "coverImage": "",
+  "title": "Software Developer",
+  "titles": ["Backend Web Developer", "Flutter Developer"],
+  "cv": "https://drive.google.com/uc?export=download&id=1A5iUnNLDWHfTCcmp-17N714ljwtFYmtn",
+  "degree": "M.Sc. in Computer Science",
+  "publicEmail": "dev.tanveer.me@gmail.com",
+  "whatIDo": "",
+  "yob": null,
+  "fullName": "Tanveer",
+  "name": "Tanveer",
+  "username": "tanvoid0",
+  "webUrl": "https://tanvoid0.github.io",
+  "hobbies": [
+    {
+      "createdAt": "2024-01-09T18:34:09.200219",
+      "id": 1,
+      "updatedAt": "2024-01-09T18:34:09.202722",
+      "version": 1,
+      "icon": "0xf5c1",
+      "orderSeq": 1,
+      "title": "Travelling"
+    },
+    {
+      "createdAt": "2024-01-09T18:34:09.209705",
+      "id": 2,
+      "updatedAt": "2024-01-09T18:34:09.210703",
+      "version": 1,
+      "icon": "0xf083",
+      "orderSeq": 2,
+      "title": "Photography"
+    },
+    {
+      "createdAt": "2024-01-09T18:34:09.212698",
+      "id": 3,
+      "updatedAt": "2024-01-09T18:34:09.213695",
+      "version": 1,
+      "icon": "0xf02d",
+      "orderSeq": 3,
+      "title": "Learning new things"
+    },
+    {
+      "createdAt": "2024-01-09T18:34:09.21569",
+      "id": 4,
+      "updatedAt": "2024-01-09T18:34:09.216687",
+      "version": 1,
+      "icon": "0xf544",
+      "orderSeq": 4,
+      "title": "Automation"
+    },
+    {
+      "createdAt": "2024-01-09T18:34:09.217684",
+      "id": 5,
+      "updatedAt": "2024-01-09T18:34:09.218682",
+      "version": 1,
+      "icon": "0xf11b",
+      "orderSeq": 5,
+      "title": "Gaming"
+    },
+    {
+      "createdAt": "2024-01-09T18:34:09.220676",
+      "id": 6,
+      "updatedAt": "2024-01-09T18:34:09.221673",
+      "version": 1,
+      "icon": "0xf121",
+      "orderSeq": 6,
+      "title": "Coding"
+    }
+  ],
+  "socials": [
+    {
+      "createdAt": "2024-01-09T18:34:09.228655",
+      "id": 1,
+      "updatedAt": "2024-01-09T18:34:09.228655",
+      "version": 0,
+      "icon": "61595",
+      "orderSeq": 1,
+      "title": "Github",
+      "url": "https://github.com/tanvoid0"
+    },
+    {
+      "createdAt": "2024-01-09T18:34:09.233641",
+      "id": 2,
+      "updatedAt": "2024-01-09T18:34:09.233641",
+      "version": 0,
+      "icon": "61580",
+      "orderSeq": 2,
+      "title": "Linkedin",
+      "url": "https://linkedin.com/in/tanvoid0"
+    },
+    {
+      "createdAt": "2024-01-09T18:34:09.235636",
+      "id": 3,
+      "updatedAt": "2024-01-09T18:34:09.235636",
+      "version": 0,
+      "icon": "61804",
+      "orderSeq": 3,
+      "title": "Stackoverflow",
+      "url": "https://stackoverflow.com/users/6905723/tanveer"
+    }
+  ],
+  "career": {
+    "createdAt": "2024-01-09T18:34:09.247604",
+    "id": 1,
+    "updatedAt": "2024-01-09T18:34:09.247604",
+    "version": 0,
+    "academics": [
+      {
+        "createdAt": "2024-01-09T18:34:09.254585",
+        "id": 1,
+        "updatedAt": "2024-01-09T18:34:09.254585",
+        "version": 0,
+        "activities": "",
+        "address": "Wales, United Kingdom",
+        "description": "Dissertation in Implementing a Secure Lost & Found Application",
+        "institution": "University of South Wales",
+        "logo": "https://emedia1.nhs.wales/CAVUhb/cache/file/02BF29E9-D070-463F-905BCA6D3199AC28_medium.jpg",
+        "timeline": "2020-2021",
+        "title": "M.Sc. in Computer Science",
+        "_type": "Academic",
+        "graduation": "2021"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.26057",
+        "id": 2,
+        "updatedAt": "2024-01-09T18:34:09.26057",
+        "version": 0,
+        "activities": "",
+        "address": "Dhaka, Bangladesh",
+        "description": "Dissertation in Data analysis on Home Forestation using IoT",
+        "institution": "Daffodil International University",
+        "logo": "https://daffodilvarsity.edu.bd/template/images/diulogoside.png",
+        "timeline": "2015-2019",
+        "title": "B.Sc. in Computer Science",
+        "_type": "Academic",
+        "graduation": "2019"
+      }
+    ],
+    "achievements": [
+      {
+        "createdAt": "2024-01-09T18:34:09.266554",
+        "id": 1,
+        "updatedAt": "2024-01-09T18:34:09.266554",
+        "version": 0,
+        "activities": "",
+        "address": "Mumbai, India",
+        "description": "Idea of Fresh food cart delivery & online marketplace with the challenge of creating a job for 10,000 youths. Had to beat 560 teams on campus (worlds most teams from a single university participating for the competition) and 60 international teams in India.",
+        "institution": "Hult Prize",
+        "logo": "https://www.pikpng.com/pngl/m/440-4403249_volunteered-as-a-judge-coordinator-at-the-hult.png",
+        "timeline": "2019",
+        "title": "Mumbai Regional 2019 finale",
+        "_type": "Achievement",
+        "achievement": "Top 6 Finalist"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.272538",
+        "id": 2,
+        "updatedAt": "2024-01-09T18:34:09.272538",
+        "version": 0,
+        "activities": "",
+        "address": "Dhaka, Bangladesh",
+        "description": "Qinter, an app that helps to find lost belongings",
+        "institution": "Daffodil International University",
+        "logo": "https://daffodilvarsity.edu.bd/template/images/diulogoside.png",
+        "timeline": "2019",
+        "title": "DIU ICT Carnival 2019 finale",
+        "_type": "Achievement",
+        "achievement": "Finalist"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.27553",
+        "id": 3,
+        "updatedAt": "2024-01-09T18:34:09.27553",
+        "version": 0,
+        "activities": "",
+        "address": "Dhaka, Bangladesh",
+        "description": "Business proposal of a Smart device that helps to do smart gardening with the challenge of renewable energy",
+        "institution": "Daffodil International University",
+        "logo": "https://daffodilvarsity.edu.bd/template/images/diulogoside.png",
+        "timeline": "2017",
+        "title": "Hult Prize Campus 2017 finale",
+        "_type": "Achievement",
+        "achievement": "Top 6 Campus Finalist"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.278522",
+        "id": 4,
+        "updatedAt": "2024-01-09T18:34:09.278522",
+        "version": 0,
+        "activities": "",
+        "address": "Dhaka, Bangladesh",
+        "description": "",
+        "institution": "Daffodil International University",
+        "logo": "https://daffodilvarsity.edu.bd/template/images/diulogoside.png",
+        "timeline": "2016",
+        "title": "Inter Section Programming Contest (Team)",
+        "_type": "Achievement",
+        "achievement": "Winner"
+      }
+    ],
+    "certificates": [
+      {
+        "createdAt": "2024-01-09T18:34:09.283508",
+        "id": 1,
+        "updatedAt": "2024-01-09T18:34:09.283508",
+        "version": 0,
+        "activities": "# Learned to use \n* Adobe Photoshop\n* Adobe Illustrator\n* Freelancing market",
+        "address": "Dhaka, Bangladesh",
+        "institution": "Bangladesh Computer Council",
+        "logo": "https://seeklogo.com/images/B/bangladesh-computer-council-bcc-logo-2C68FE1B25-seeklogo.com.png",
+        "certificate": "https://seeklogo.com/images/B/bangladesh-computer-council-bcc-logo-2C68FE1B25-seeklogo.com.png",
+        "timeline": "4 months",
+        "title": "Advanced Graphics Design & Outsourcing",
+        "_type": "Certificate",
+        "graduation": "2015",
+        "url": ""
+      }
+    ],
+    "experiences": [
+      {
+        "createdAt": "2024-01-09T18:34:09.29149",
+        "id": 1,
+        "updatedAt": "2024-01-09T18:34:09.29149",
+        "version": 0,
+        "activities": "Spring Boot, Finance Microservices",
+        "address": "Newport, United Kingdom",
+        "description": "Back-end developer on a team of 4 responsible for developing a scalable web application. Communicated\nregularly with the front-end developers and provided feedback on the application design.\n* Created script for automating development cycle from development to deployment\n* Created custom Kubernetes management tool using flutter\n* Helped on data migration with one senior Developer\n* Helped to develop Payment Scheduling with Spring batch\n* Controller Unit test minimisation library\n* Written documents to aid other developers of procedures and troubleshooting\n* Worked on Spring boot, Spring batch, Postgres, HQL, NodeJS, GraphQL, Kubernetes, GCloud, Kibana\n* Helped team split Features into stories and subtasks with time estimation\n* Worked on Scrum & Kanban based Development Lifecycle.",
+        "institution": "OLM Systems",
+        "logo": "https://w5a9n3j9.rocketcdn.me/wp-content/uploads/2020/10/OLM-LOGO-full-300x150.jpg",
+        "timeline": "Jan 2022 - Present",
+        "title": "Backend Developer",
+        "_type": "Experience",
+        "role": ""
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.296477",
+        "id": 2,
+        "updatedAt": "2024-01-09T18:34:09.296477",
+        "version": 0,
+        "activities": "Algorithms, Data Structures, Problem Solving",
+        "address": "Dhaka, Bangladesh",
+        "description": "Attended training on\n* Object Oriented Programming & Data Structures\n* Dynamic Programming\n* Graphs",
+        "institution": "Samsung Research & Development Institute Bangladesh",
+        "logo": "https://cdn.codeground.org/nsr/images/layout/logo-sr.png",
+        "timeline": "1 Month Program, 2019",
+        "title": "Intern",
+        "_type": "Experience",
+        "role": ""
+      }
+    ],
+    "voluntaries": [
+      {
+        "createdAt": "2024-01-09T18:34:09.301463",
+        "id": 1,
+        "updatedAt": "2024-01-09T18:34:09.301463",
+        "version": 0,
+        "address": "Dhaka, Bangladesh",
+        "description": "Administrative work, Promoting & encouraging Software Development\nOrganized Workshops & Training on: GitHub, SEO, Database Management with Java, Web Development with PHP, Introduction to UI/UX",
+        "institution": "Computer & Programming Club, DIU",
+        "timeline": "2018 - 2019",
+        "title": "Vice President",
+        "_type": "Volunteer",
+        "role": "Software Development Wing"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.319927",
+        "id": 2,
+        "updatedAt": "2024-01-09T18:34:09.319927",
+        "version": 0,
+        "address": "Dhaka, Bangladesh",
+        "description": "Database Management with JAVA, Web Development with PHP",
+        "institution": "DIU",
+        "timeline": "2018 - 2019",
+        "title": "Trainer",
+        "_type": "Volunteer"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.322919",
+        "id": 3,
+        "updatedAt": "2024-01-09T18:34:09.322919",
+        "version": 0,
+        "address": "Dhaka, Bangladesh",
+        "description": "OOP, Programming & Problem Solving, Data Structures",
+        "institution": "DIU",
+        "timeline": "2017 - 2018",
+        "title": "Lab Assistant",
+        "_type": "Volunteer"
+      }
+    ]
+  },
+  "phone": null,
+  "portfolio": {
+    "createdAt": "2024-01-09T18:34:09.328903",
+    "id": 1,
+    "updatedAt": "2024-01-09T18:34:09.328903",
+    "version": 0,
+    "onlineJudges": [
+      {
+        "createdAt": "2024-01-09T18:34:09.334887",
+        "id": 1,
+        "updatedAt": "2024-01-09T18:34:09.334887",
+        "version": 0,
+        "image": "https://popsql.com/static/external-logos/freecodecamp.png",
+        "name": "Freecodecamp",
+        "progress": "286+ Points",
+        "url": "https://www.freecodecamp.org/tanvoid0"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.339873",
+        "id": 2,
+        "updatedAt": "2024-01-09T18:34:09.339873",
+        "version": 0,
+        "image": "https://i.imgur.com/YRO2TMj.jpg",
+        "name": "Timus OJ",
+        "progress": "300+ Rating",
+        "url": "https://acm.timus.ru/author.aspx?id=211478"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.341868",
+        "id": 3,
+        "updatedAt": "2024-01-09T18:34:09.341868",
+        "version": 0,
+        "image": "https://pbs.twimg.com/profile_images/1452678635178053646/I0XsDRcl_400x400.jpg",
+        "name": "BeeCrowd",
+        "progress": "180+ Solved",
+        "url": "https://www.beecrowd.com.br/judge/en/profile/110031"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.34486",
+        "id": 4,
+        "updatedAt": "2024-01-09T18:34:09.34486",
+        "version": 0,
+        "image": "https://miro.medium.com/max/1200/0*SqKMsOvAhxEjZodq.png",
+        "name": "Leet Code",
+        "progress": "19+ Problem Solved",
+        "url": "https://leetcode.com/tanvoid0/"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.346855",
+        "id": 5,
+        "updatedAt": "2024-01-09T18:34:09.346855",
+        "version": 0,
+        "image": "https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png",
+        "name": "Hackerrank",
+        "progress": "6200+ HackOS",
+        "url": "https://www.hackerrank.com/thaque20"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.349846",
+        "id": 6,
+        "updatedAt": "2024-01-09T18:34:09.349846",
+        "version": 0,
+        "image": "https://scontent1.thetypingcat.com/images/thetypingcat.png",
+        "name": "Typing Cat",
+        "progress": "74+ WPM",
+        "url": "https://thetypingcat.com/user/83040"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Qinter",
+        "description": "A self developed project part of Masters dissertation. A Cross platform application that helpds to connect people with lost belongings. A modern platform of Lost & Found. Part of this dissertation covered users' data protection using JWT and Data Encryption Algorithms.",
+        "source": "https://github.com/tanvoid0/qinter",
+        "tags": [
+          "Cross Platform",
+          "Flutter",
+          "Mobile Application",
+          "Research",
+          "Encryption",
+          "Cross Hobby"
+        ],
+        "status": "DEVELOPMENT"
+      },
+      {
+        "title": "Qinter React Native",
+        "description": "Qinter Application in React Native",
+        "source": "https://github.com/tanvoid0/qinter-rn"
+      },
+      {
+        "title": "Qinter Android",
+        "description": "Qinter Application in Android",
+        "source": "https://github.com/tanvoid0/qFinder",
+        "demo": "https://www.amazon.com/-/es/dp/B07G6C5FB1"
+      },
+      {
+        "title": "Eco-friend",
+        "description": "Requires a lot of description. will be updated soon",
+        "source": "https://github.com/tanvoid0/eco-friend",
+        "php_api": "// possibly php api: https://github.com/tanvoid0/Api"
+      },
+      {
+        "title": "IQ Tester",
+        "description": "Our teacher threw us a challenge, and we managed to solve it. A dummy IQ Tester (Well in real world, it's not that easy to simulate IQ Testing, but it worked)",
+        "source": "https://github.com/tanvoid0/IQ-Tester"
+      },
+      {
+        "title": "Graphics Lab",
+        "source": "https://github.com/tanvoid0/Lab"
+      },
+      {
+        "title": "Algorithm",
+        "description": "A collection of all the solutions to the Online Judge problems I've solved",
+        "source": "https://github.com/tanvoid0/Algorithm"
+      },
+      {
+        "title": "Solution to URI in Python",
+        "source": "https://github.com/tanvoid0/URI"
+      },
+      {
+        "title": "Problem Solving",
+        "description": "A more organized version of Algorithm, trying to follow a few books",
+        "source": "https://github.com/tanvoid0/Problem-Solving"
+      },
+      {
+        "title": "Particle Collision Detection and Response Algorithm",
+        "description": "Particle Detection and Response Algorithm Designed as part of Masters course for OOP with Data Structures and Algorithms",
+        "_comment": "// TODO: https://drive.google.com/drive/folders/1MuKOYGYa6_zvAU86SPkZ2XAsp3bnH8Pw",
+        "tags": [
+          "Algorithms",
+          "Data Structures",
+          "c++",
+          "opengl"
+        ]
+      },
+      {
+        "title": "Simulation",
+        "description": "A Simulation web app developed in javascript as part of coursework for simulation",
+        "source": "https://github.com/tanvoid0/Simulation-Web-App"
+      }
+    ]
+  },
+  "skill": {
+    "frameworks": [
+      {
+        "createdAt": "2024-01-09T18:34:09.523413",
+        "id": 1,
+        "updatedAt": "2024-01-09T18:34:09.523413",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg",
+        "name": "Spring Boot",
+        "platform": "WEB_BACKEND"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.527403",
+        "id": 2,
+        "updatedAt": "2024-01-09T18:34:09.527403",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+        "name": "ExpressJS",
+        "platform": "WEB_BACKEND"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.529397",
+        "id": 3,
+        "updatedAt": "2024-01-09T18:34:09.529397",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+        "name": "NodeJs",
+        "platform": "WEB_BACKEND"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.531392",
+        "id": 4,
+        "updatedAt": "2024-01-09T18:34:09.531392",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg",
+        "name": "Laravel",
+        "platform": "WEB_BACKEND"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.533387",
+        "id": 5,
+        "updatedAt": "2024-01-09T18:34:09.533387",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg",
+        "name": "Django",
+        "platform": "WEB_BACKEND"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.534384",
+        "id": 6,
+        "updatedAt": "2024-01-09T18:34:09.534384",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg",
+        "name": "FastAPI",
+        "platform": "WEB_BACKEND"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.537376",
+        "id": 7,
+        "updatedAt": "2024-01-09T18:34:09.537376",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg",
+        "name": "Flask",
+        "platform": "WEB_BACKEND"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.539371",
+        "id": 8,
+        "updatedAt": "2024-01-09T18:34:09.539371",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg",
+        "name": ".NET Core",
+        "platform": "WEB_BACKEND"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.541365",
+        "id": 9,
+        "updatedAt": "2024-01-09T18:34:09.541365",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg",
+        "name": "Flutter",
+        "platform": "CROSS_PLATFORM"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.54336",
+        "id": 10,
+        "updatedAt": "2024-01-09T18:34:09.54336",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+        "name": "React Native",
+        "platform": "CROSS_PLATFORM"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.545355",
+        "id": 11,
+        "updatedAt": "2024-01-09T18:34:09.545355",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+        "name": "ReactJS",
+        "platform": "WEB_FRONTEND"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.54735",
+        "id": 12,
+        "updatedAt": "2024-01-09T18:34:09.54735",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain.svg",
+        "name": "VueJS",
+        "platform": "WEB_FRONTEND"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.549344",
+        "id": 13,
+        "updatedAt": "2024-01-09T18:34:09.549344",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg",
+        "name": "jQuery",
+        "platform": "WEB_FRONTEND"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.551339",
+        "id": 14,
+        "updatedAt": "2024-01-09T18:34:09.551339",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg",
+        "name": "Android",
+        "platform": "PHONE_ANDROID"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.554331",
+        "id": 15,
+        "updatedAt": "2024-01-09T18:34:09.554331",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+        "name": "Swing",
+        "platform": "DESKTOP"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.556326",
+        "id": 16,
+        "updatedAt": "2024-01-09T18:34:09.556326",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg",
+        "name": ".NET Desktop",
+        "platform": "DESKTOP"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.55832",
+        "id": 17,
+        "updatedAt": "2024-01-09T18:34:09.55832",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg",
+        "name": "ElectronJS",
+        "platform": "DESKTOP"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.560315",
+        "id": 18,
+        "updatedAt": "2024-01-09T18:34:09.560315",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg",
+        "name": "Arduino UNO",
+        "platform": "IOT"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.561312",
+        "id": 19,
+        "updatedAt": "2024-01-09T18:34:09.561312",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg",
+        "name": "ESP NodeMCU",
+        "platform": "IOT"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.563307",
+        "id": 20,
+        "updatedAt": "2024-01-09T18:34:09.563307",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg",
+        "name": "Raspberry Pi",
+        "platform": "IOT"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.54735",
+        "id": 21,
+        "updatedAt": "2024-01-09T18:34:09.54735",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg",
+        "name": "NextJS",
+        "platform": "WEB_FRONTEND"
+      }
+    ],
+    "hardSkills": [
+      {
+        "createdAt": "2024-01-09T18:34:09.421171",
+        "id": 1,
+        "updatedAt": "2024-01-09T18:34:09.422168",
+        "version": 1,
+        "items": [
+          {
+            "createdAt": "2024-01-09T18:34:09.426158",
+            "id": 1,
+            "updatedAt": "2024-01-09T18:34:09.426158",
+            "version": 0,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg",
+            "name": "Google Cloud",
+            "orderSeq": 1
+          },
+          {
+            "createdAt": "2024-01-09T18:34:09.432143",
+            "id": 2,
+            "updatedAt": "2024-01-09T18:34:09.432143",
+            "version": 0,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg",
+            "name": "AWS",
+            "orderSeq": 2
+          },
+          {
+            "createdAt": "2024-01-09T18:34:09.434137",
+            "id": 3,
+            "updatedAt": "2024-01-09T18:34:09.434137",
+            "version": 0,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg",
+            "name": "Heroku",
+            "orderSeq": 3
+          }
+        ],
+        "name": "Cloud"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.436132",
+        "id": 2,
+        "updatedAt": "2024-01-09T18:34:09.438126",
+        "version": 1,
+        "items": [
+          {
+            "createdAt": "2024-01-09T18:34:09.440121",
+            "id": 4,
+            "updatedAt": "2024-01-09T18:34:09.440121",
+            "version": 0,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg",
+            "name": "Docker",
+            "orderSeq": 4
+          },
+          {
+            "createdAt": "2024-01-09T18:34:09.442115",
+            "id": 5,
+            "updatedAt": "2024-01-09T18:34:09.442115",
+            "version": 0,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg",
+            "name": "Kubernetes",
+            "orderSeq": 5
+          }
+        ],
+        "name": "Distributed Systems"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.445107",
+        "id": 3,
+        "updatedAt": "2024-01-09T18:34:09.446104",
+        "version": 1,
+        "items": [
+          {
+            "createdAt": "2024-01-09T18:34:09.447102",
+            "id": 6,
+            "updatedAt": "2024-01-09T18:34:09.447102",
+            "version": 0,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg",
+            "name": "Git",
+            "orderSeq": 6
+          },
+          {
+            "createdAt": "2024-01-09T18:34:09.449097",
+            "id": 7,
+            "updatedAt": "2024-01-09T18:34:09.449097",
+            "version": 0,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+            "name": "Github",
+            "orderSeq": 7
+          },
+          {
+            "createdAt": "2024-01-09T18:34:09.451091",
+            "id": 8,
+            "updatedAt": "2024-01-09T18:34:09.452088",
+            "version": 0,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg",
+            "name": "Bitbucket",
+            "orderSeq": 8
+          }
+        ],
+        "name": "Version Controlling"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.454083",
+        "id": 4,
+        "updatedAt": "2024-01-09T18:34:09.454083",
+        "version": 1,
+        "items": [
+          {
+            "createdAt": "2024-01-09T18:34:09.456078",
+            "id": 9,
+            "updatedAt": "2024-01-09T18:34:09.456078",
+            "version": 0,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg",
+            "name": "XD",
+            "orderSeq": 9
+          },
+          {
+            "createdAt": "2024-01-09T18:34:09.458073",
+            "id": 10,
+            "updatedAt": "2024-01-09T18:34:09.458073",
+            "version": 0,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg",
+            "name": "Photoshop",
+            "orderSeq": 10
+          },
+          {
+            "createdAt": "2024-01-09T18:34:09.460067",
+            "id": 11,
+            "updatedAt": "2024-01-09T18:34:09.460067",
+            "version": 0,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg",
+            "name": "Illustrator",
+            "orderSeq": 11
+          }
+        ],
+        "name": "Softwares"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.462062",
+        "id": 5,
+        "updatedAt": "2024-01-09T18:34:09.463059",
+        "version": 1,
+        "items": [
+          {
+            "createdAt": "2024-01-09T18:34:09.465054",
+            "id": 12,
+            "updatedAt": "2024-01-09T18:34:09.465054",
+            "version": 0,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg",
+            "name": "Ubuntu",
+            "orderSeq": 12
+          },
+          {
+            "createdAt": "2024-01-09T18:34:09.467049",
+            "id": 13,
+            "updatedAt": "2024-01-09T18:34:09.467049",
+            "version": 0,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg",
+            "name": "Mac",
+            "orderSeq": 13
+          },
+          {
+            "createdAt": "2024-01-09T18:34:09.469043",
+            "id": 14,
+            "updatedAt": "2024-01-09T18:34:09.469043",
+            "version": 0,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg",
+            "name": "Windows",
+            "orderSeq": 14
+          }
+        ],
+        "name": "Operating Systems"
+      }
+    ],
+    "id": 1,
+    "languages": [
+      {
+        "createdAt": "2024-01-09T18:34:09.489989",
+        "id": 1,
+        "updatedAt": "2024-01-09T18:34:09.489989",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "icon": "0xeb89",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+        "name": "Python",
+        "orderSeq": 1
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.493979",
+        "id": 2,
+        "updatedAt": "2024-01-09T18:34:09.493979",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "icon": "0xe842",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg",
+        "name": "Java",
+        "orderSeq": 2
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.495974",
+        "id": 3,
+        "updatedAt": "2024-01-09T18:34:09.495974",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "icon": "0xe9b1",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg",
+        "name": "Dart",
+        "orderSeq": 3
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.497968",
+        "id": 4,
+        "updatedAt": "2024-01-09T18:34:09.497968",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "icon": "0xe845",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg",
+        "name": "JavaScript",
+        "orderSeq": 4
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.499963",
+        "id": 5,
+        "updatedAt": "2024-01-09T18:34:09.499963",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "icon": "0xe920",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg",
+        "name": "Typescript",
+        "orderSeq": 5
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.501957",
+        "id": 6,
+        "updatedAt": "2024-01-09T18:34:09.501957",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "icon": "0xf2db",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg",
+        "name": "Arduino",
+        "orderSeq": 6
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.503465",
+        "id": 7,
+        "updatedAt": "2024-01-09T18:34:09.503465",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "icon": "0xe979",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg",
+        "name": "Bash",
+        "orderSeq": 7
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.505462",
+        "id": 8,
+        "updatedAt": "2024-01-09T18:34:09.505462",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "icon": "0xe635",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg",
+        "name": "C++",
+        "orderSeq": 8
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.507456",
+        "id": 9,
+        "updatedAt": "2024-01-09T18:34:09.507456",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "icon": "0xe637",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg",
+        "name": "c#",
+        "orderSeq": 9
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.509451",
+        "id": 10,
+        "updatedAt": "2024-01-09T18:34:09.509451",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "icon": "0xeb71",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg",
+        "name": "PHP",
+        "orderSeq": 10
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.510448",
+        "id": 11,
+        "updatedAt": "2024-01-09T18:34:09.510448",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "icon": "0xeb44",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg",
+        "name": "MongoDB",
+        "orderSeq": 11
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.512442",
+        "id": 12,
+        "updatedAt": "2024-01-09T18:34:09.512442",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "icon": "0xeb61",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg",
+        "name": "MySQL",
+        "orderSeq": 12
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.51344",
+        "id": 13,
+        "updatedAt": "2024-01-09T18:34:09.51344",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "icon": "0xeb7d",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg",
+        "name": "PostgreSQL",
+        "orderSeq": 13
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.515435",
+        "id": 14,
+        "updatedAt": "2024-01-09T18:34:09.515435",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg",
+        "name": "SQLite",
+        "orderSeq": 14
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.51743",
+        "id": 15,
+        "updatedAt": "2024-01-09T18:34:09.51743",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "icon": "0xe98a",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg",
+        "name": "Firebase",
+        "orderSeq": 15
+      }
+    ],
+    "linguisticSkills": [
+      {
+        "createdAt": "2024-01-09T18:34:09.47403",
+        "id": 1,
+        "updatedAt": "2024-01-09T18:34:09.47403",
+        "version": 0,
+        "fluency": "Fluent",
+        "fluencyVal": 0.0,
+        "image": "https://flagicons.lipis.dev/flags/4x3/gb.svg",
+        "name": "English",
+        "orderSeq": 1
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.479016",
+        "id": 2,
+        "updatedAt": "2024-01-09T18:34:09.479016",
+        "version": 0,
+        "fluency": "Native",
+        "fluencyVal": 0.0,
+        "image": "https://flagicons.lipis.dev/flags/4x3/bd.svg",
+        "name": "Bengali",
+        "orderSeq": 2
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.481011",
+        "id": 3,
+        "updatedAt": "2024-01-09T18:34:09.481011",
+        "version": 0,
+        "fluency": "Fluent Speaker",
+        "fluencyVal": 0.0,
+        "image": "https://flagicons.lipis.dev/flags/4x3/in.svg",
+        "name": "Hindi",
+        "orderSeq": 3
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.483006",
+        "id": 4,
+        "updatedAt": "2024-01-09T18:34:09.483006",
+        "version": 0,
+        "fluency": "Fluent Speaker",
+        "fluencyVal": 0.0,
+        "image": "https://flagicons.lipis.dev/flags/4x3/pk.svg",
+        "name": "Urdu",
+        "orderSeq": 4
+      }
+    ],
+    "softSkills": [
+      {
+        "createdAt": "2024-01-09T18:34:09.40171",
+        "id": 1,
+        "updatedAt": "2024-01-09T18:34:09.40171",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "name": "Creative"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.407208",
+        "id": 2,
+        "updatedAt": "2024-01-09T18:34:09.407208",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "name": "Curious"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.4102",
+        "id": 3,
+        "updatedAt": "2024-01-09T18:34:09.4102",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "name": "Persistant"
+      },
+      {
+        "createdAt": "2024-01-09T18:34:09.413192",
+        "id": 4,
+        "updatedAt": "2024-01-09T18:34:09.413192",
+        "version": 0,
+        "fluencyVal": 0.0,
+        "name": "Learner"
+      }
+    ]
+  }
+}

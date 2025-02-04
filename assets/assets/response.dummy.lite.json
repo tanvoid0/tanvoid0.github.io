@@ -1,0 +1,184 @@
+{
+  "id": 1,
+  "about": "A Backend and Cross Platform Application Developer.",
+  "aboutDetails": "Backend developer with more than 2 years of experience",
+  "address": "London, UK",
+  "avatar": "https://gravatar.com/avatar/bed3b292bb336809fe6d93c5db9995cd?s=400&d=robohash&r=x",
+  "title": "Software Developer",
+  "name": "name",
+  "phone": "+447767651102",
+  "username": "username",
+  "webUrl": "https://username.github.io",
+  "whatIDo": "",
+  "yob": 1998,
+  "titles": [
+    "Backend Web Developer",
+    "Flutter Developer"
+  ],
+  "career": {
+    "academics": [
+      {
+        "id": 1,
+        "activities": "",
+        "address": "London, United Kingdom",
+        "description": "Dissertation in Implementing a Secure Lost & Found Application",
+        "institution": "Masters University",
+        "logo": "https://emedia1.nhs.wales/CAVUhb/cache/file/02BF29E9-D070-463F-905BCA6D3199AC28_meBachelor Universitym.jpg",
+        "timeline": "2020-2021",
+        "title": "M.Sc. in Computer Science",
+        "_type": "Academic",
+        "graduation": "2021"
+      }
+    ],
+    "achievements": [
+      {
+        "id": 1,
+        "activities": "",
+        "address": "Mumbai, India",
+        "description": "Idea of Fresh food cart delivery & online marketplace with the challenge of creating a job for 10,000 youths. Had to beat 560 teams on campus (worlds most teams from a single university participating for the competition) and 60 international teams in India.",
+        "institution": "Hult Prize",
+        "logo": "https://www.pikpng.com/pngl/m/440-4403249_volunteered-as-a-judge-coordinator-at-the-hult.png",
+        "timeline": "2019",
+        "title": "Mumbai Regional 2019 finale",
+        "_type": "Achievement",
+        "achievement": "Top 6 Finalist"
+      }
+    ],
+    "certificates": [
+      {
+        "id": 1,
+        "activities": "# Learned to use \n* Adobe Photoshop\n* Adobe Illustrator\n* Freelancing market",
+        "address": "Bangalore, India",
+        "institution": "Bangladesh Computer Council",
+        "logo": "http://bkiict.bcc.net.bd/sitecontent/img/bcc_logo.png",
+        "certificate": "http://bkiict.bcc.net.bd/sitecontent/img/bcc_logo.png",
+        "timeline": "4 months",
+        "title": "Advanced Graphics Design & Outsourcing",
+        "_type": "Certificate",
+        "graduation": "2015",
+        "url": ""
+      }
+    ],
+    "experiences": [
+      {
+        "id": 1,
+        "activities": "Spring Boot, Finance Microservices",
+        "address": "Manchester, UK",
+        "description": "Back-end developer on a team of 4 responsible for developing a scalable web application. Communicated\nregularly with the front-end developers and provided feedback on the application design.\n* Created script for automating development cycle from development to deployment\n* Created custom Kubernetes management tool using flutter\n* Helped on data migration with one senior Developer\n* Helped to develop Payment Scheduling with Spring batch\n* Controller Unit test minimisation library\n* Written documents to aid other developers of procedures and troubleshooting\n* Worked on Spring boot, Spring batch, Postgres, HQL, NodeJS, GraphQL, Kubernetes, GCloud, Kibana\n* Helped team split Features into stories and subtasks with time estimation\n* Worked on Scrum & Kanban based Development Lifecycle.",
+        "institution": "Company1",
+        "logo": "https://w5a9n3j9.rocketcdn.me/wp-content/uploads/2020/10/OLM-LOGO-full-300x150.jpg",
+        "timeline": "Jan 2022 - Present",
+        "title": "Backend Developer",
+        "_type": "Experience",
+        "role": ""
+      }
+    ],
+    "voluntaries": [
+      {
+        "id": 1,
+        "address": "Bangalore, India",
+        "description": "Administrative work, Promoting & encouraging Software Development\nOrganized Workshops & Training on: GitHub, SEO, Database Management with Java, Web Development with PHP, Introduction to UI/UX",
+        "institution": "Computer & Programming Club, Bachelor University",
+        "timeline": "2018 - 2019",
+        "title": "Vice President",
+        "_type": "Volunteer",
+        "role": "Software Development Wing"
+      }
+    ]
+  },
+  "coverImage": "",
+  "cv": "https://drive.google.com/uc?export=download&id=1A5iUnNLDWHfTCcmp-17N714ljwtFYmtn",
+  "degree": "M.Sc. in Computer Science",
+  "publicEmail": "email.public@gmail.com",
+  "fullName": "name",
+  "hobbies": [
+    {
+      "id": 1,
+      "icon": "0xf5c1",
+      "orderRank": 1,
+      "title": "Travelling"
+    }
+  ],
+  "portfolio": {
+    "onlineJudges": [
+      {
+        "image": "https://popsql.com/static/external-logos/freecodecamp.png",
+        "name": "Freecodecamp",
+        "progress": "286+ Points",
+        "url": "https://www.freecodecamp.org/username"
+      }
+    ]
+  },
+  "skill": {
+    "frameworks": [
+      {
+        "id": 1,
+        "fluencyVal": 0.0,
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg",
+        "name": "Spring Boot",
+        "platform": "WEB_BACKEND"
+      }
+    ],
+    "hardSkills": [
+      {
+        "id": 1,
+        "name": "Cloud",
+        "items": [
+          {
+            "id": 1,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg",
+            "name": "Google Cloud",
+            "orderRank": 1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Distributed Systems",
+        "items": [
+          {
+            "id": 4,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg",
+            "name": "Docker",
+            "orderRank": 4
+          },
+          {
+            "id": 5,
+            "fluencyVal": 0.0,
+            "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg",
+            "name": "Kubernetes",
+            "orderRank": 5
+          }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "id": 1,
+        "fluencyVal": 0.0,
+        "icon": "0xeb89",
+        "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+        "name": "Python",
+        "orderRank": 1
+      }
+    ],
+    "softSkills": [
+      {
+        "id": 1,
+        "fluencyVal": 0.0,
+        "name": "Creative"
+      }
+    ]
+  },
+  "socials": [
+    {
+      "id": 1,
+      "icon": "61595",
+      "orderRank": 1,
+      "title": "Github",
+      "url": "https://github.com/username"
+    }
+  ]
+}
